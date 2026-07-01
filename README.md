@@ -8,7 +8,7 @@ Power BI-ban Power Query segítségével adattisztítás betöltés előtt, utá
 - Product Performance (alkategória szerinti mérések)
 - Profitability (top államok szerinti profit, szállítás típus szerinti profit)
 
-## Fő kimutatások
+## Fő insightok
 - Egyes államok kiemelkedő profitot termelnek
 - Magasabb kedvezmények alacsonyabb profitot hoznak több esetben
 - Némely termék sokkal több profitot termel a kedvezményéhez képest
